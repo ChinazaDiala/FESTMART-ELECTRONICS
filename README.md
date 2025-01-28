@@ -8,6 +8,7 @@
 
 This dashboard provides a comprehensive analysis of the Festmart retail business. The key insights include:
 
+
 - Total sales of $2.30M and total profit of $286.41K
 - Sales breakdown by product category, with Technology, Furniture, and Office Supplies being the top sellers
 - Profit margins by business segment, with Consumer-focused products being the most profitable
@@ -16,7 +17,7 @@ This dashboard provides a comprehensive analysis of the Festmart retail business
 - Customer metrics like total customers and customer growth by category
 
 This data-driven dashboard gives Festmart's leadership team clear visibility into their business performance across multiple dimensions. It enables data-informed decision making to drive continued growth and profitability.
-![Image](https://github.com/user-attachments/assets/95b1f2e9-ab68-423e-9687-6b86de10d110)
+![Screenshot (77)](https://github.com/user-attachments/assets/b06cdbe9-9faf-40ea-b9a5-0a42265b491e)
 
 
 ### Tools
@@ -46,24 +47,26 @@ Based on the FESTMART dashboard image, here are some key insights and recommenda
  - Number of customers: 793
 
         
+
 Product Categories:
- ![Image](https://github.com/user-attachments/assets/b6067696-2c78-488a-942e-2ed27d72ecf3)
+ ![Screenshot (72)](https://github.com/user-attachments/assets/3465aab0-2669-47da-86b8-c32a749005c3)
  - Technology is the highest selling category, followed by Furniture and Office Supplies.
-![Image](https://github.com/user-attachments/assets/05f0731d-88cb-4a14-ad5c-e222ed69f0c6)
+![Screenshot (70)](https://github.com/user-attachments/assets/f3b70cfe-2ccd-4b72-97a2-1367779591f7)
  - Phones and Chairs are the top-selling sub-categories.
 
 
 2. Seasonal Trends:
-![Image](https://github.com/user-attachments/assets/ee089857-030d-48da-aa7b-54ab5b1126b1)
+![Screenshot (71)](https://github.com/user-attachments/assets/a8aee4e0-5ea5-4314-9d5c-0e6f63354b50)
  - Sales show a general upward trend throughout the year, with peaks in October and December.
  - February appears to have the lowest sales.
 
 3. Regional Performance:
-![Image](https://github.com/user-attachments/assets/fbf04624-e3ee-4824-8ffb-d094971f18f0)
+![Screenshot (75)](https://github.com/user-attachments/assets/6a5db279-9a38-4c55-9998-095c441a9f07)
  - The West region leads in sales (31.58%), followed by Central (29.55%), East (21.8%), and South (17.05%).
 
+
 4. Customer Segments:
-![Image](https://github.com/user-attachments/assets/9aaee413-5a47-4395-bc0b-d9eaa278e5c2)
+![Screenshot (73)](https://github.com/user-attachments/assets/46963bf4-af2b-4836-930f-96276e66b70f)
  - Consumer segment generates the highest profit (46.83%), followed by Corporate (32.12%) and Home Office (21.05%).
  5. Returns:
  - Office Supplies category has the highest number of returns, followed by Furniture and Technology.
